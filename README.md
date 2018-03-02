@@ -1,2 +1,2 @@
 # Proyecto Serpientes y escaleras
-Equipo integrado por: Espinoza y Miravete.
+Equipo integrado por: <br><b>Espinoza y Miravete.</b>
