@@ -1,2 +1,4 @@
 # Proyecto Serpientes y escaleras
-Equipo integrado por: <br><b>Espinoza y Miravete.</b>
+<br>Equipo</br>
+<br>Equipo integrado por:</br>
+<br><b>Pedro Luis Espinoza Martinez y Jesus Antonio Miravete Martinez.</b>
