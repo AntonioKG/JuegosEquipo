@@ -1,4 +1,4 @@
-# Práctica Galería de Videos
+# Práctica 10: Galería de Videos
 <br>Equipo integrado por:</br>
 <br>Nombre:<b> Jesus Antonio Miravete Martinez.</b></br>
 Matrícula:<b> 1730140.</b>
