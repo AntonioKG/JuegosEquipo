@@ -9,7 +9,7 @@
 	public class main extends MovieClip {
 		//llamada al metodo simpleMp4
 		var v:simpleMp4 = new simpleMp4();
-		//declaracion de la variable que nos ayudara a saber que video detener
+		//declaracion de la variable que nos ayudara a saber que video debe detener
 		var numVideo:Number;
 		public function main() {
 			// Tweens para la portada y asignacion de funcion al boton siguiente
