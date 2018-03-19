@@ -117,7 +117,7 @@
 		}
 		public function Video8(event:MouseEvent): void{
 			gotoAndStop(4);
-			v.playMyMp4("video8.mp4");
+			v.playMyMp4("Video8.mp4");
 			v.x=94;
 			v.y=54;
 			addChild(v);
@@ -126,7 +126,7 @@
 		}
 		public function Video9(event:MouseEvent): void{
 			gotoAndStop(4);
-			v.playMyMp4("video9.mp4");
+			v.playMyMp4("Video9.mp4");
 			v.x=94;
 			v.y=54;
 			addChild(v);
@@ -135,7 +135,7 @@
 		}
 		public function Video10(event:MouseEvent): void{
 			gotoAndStop(4);
-			v.playMyMp4("video10.mp4");
+			v.playMyMp4("Video10.mp4");
 			v.x=94;
 			v.y=54;
 			addChild(v);
